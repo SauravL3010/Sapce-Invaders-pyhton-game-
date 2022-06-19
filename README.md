@@ -1,4 +1,4 @@
-# Sapce-Invaders-pyhton-game
+# Sapce-Invaders-python-game
 
 - A fun game built with python 
 >> here is what it looks like:
